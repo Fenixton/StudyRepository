@@ -1,0 +1,9 @@
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\UnitTestsForCustomQueue.dll
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\UnitTestsForCustomQueue.pdb
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\Queue.exe
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\Queue.pdb
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\obj\Debug\UnitTestsForCustomQueue.csprojResolveAssemblyReference.cache
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\obj\Debug\UnitTestsForCustomQueue.dll
+c:\Users\fenix\documents\visual studio 2015\Projects\Queue\UnitTestsForCustomQueue\obj\Debug\UnitTestsForCustomQueue.pdb
