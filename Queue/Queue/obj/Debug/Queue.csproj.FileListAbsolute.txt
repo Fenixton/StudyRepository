@@ -4,3 +4,4 @@ c:\users\fenix\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue
 c:\users\fenix\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
 c:\users\fenix\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.exe
 c:\users\fenix\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.pdb
+C:\Users\fenix\Documents\Repositories\StudyRepository\Queue\Queue\bin\Debug\Queue.exe.config
