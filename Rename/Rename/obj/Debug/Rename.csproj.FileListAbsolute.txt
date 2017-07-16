@@ -1,0 +1,6 @@
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\bin\Debug\Rename.exe.config
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\bin\Debug\Rename.exe
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\bin\Debug\Rename.pdb
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\obj\Debug\Rename.csprojResolveAssemblyReference.cache
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\obj\Debug\Rename.exe
+c:\users\fenix\documents\visual studio 2017\Projects\Rename\Rename\obj\Debug\Rename.pdb
